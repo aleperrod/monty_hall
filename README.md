@@ -4,7 +4,7 @@ Aplicativo baseado no programa de televisão Monty Hall. Escolha a porta com o p
 
 ## Front End
 
-Layout, portas e presente construídos a partir de componentes feitos com NextJS.
+Layout, portas e presente construídos a partir de componentes feitos com NextJS e belamente estilizados com CSS.
 
 ## Back End
 
@@ -29,4 +29,4 @@ Classes e funções codificando o modelo do jogo.
 > npm install
 
 #### Execute a aplicação em modo de desenvolvimento
-> npm start
+> npm run dev
